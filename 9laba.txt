@@ -1,0 +1,35 @@
+
+
+
+
+
+is_digit: pen_object=Schoolpen(nike,white,cloth,3,10,12,2), 
+
+is_digit: 
+
+is_digit: 
+
+is_digit: pen_object=Schoolpen(nike,white,cloth,3,10,12,2), 
+
+is_digit: 
+
+is_digit: 
+
+is_digit: pen_object=Schoolpen(nike,white,cloth,3,10,12,2), 
+
+is_digit: 
+
+is_digit: 
+
+is_digit: pen_object=Schoolpen(nike,white,cloth,3,10,12,2), 
+
+is_digit: 
+
+is_digit: 
+
+is_digit: pen_object=Schoolpen(nike,white,cloth,3,10,12,2), 
+
+is_digit: 
+
+is_digit: 
+
