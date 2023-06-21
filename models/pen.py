@@ -22,7 +22,7 @@ def logged(exception, mode):
                     logging.basicConfig(level=logging.ERROR)
                     logging.error(e)
                 elif mode == "file":
-                    logging.basicConfig(filename='C:\output\wer.txt', filemode='w', level=logging.ERROR)
+                    logging.basicConfig(filename='wer.txt', filemode='w', level=logging.ERROR)
                     logging.error(e)
                 else:
                     raise exception("Invalid mode. Supported modes are 'console' and 'file'")
